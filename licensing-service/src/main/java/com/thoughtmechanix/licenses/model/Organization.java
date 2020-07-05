@@ -7,7 +7,6 @@ public class Organization {
     String contactEmail;
     String contactPhone;
 
-
     public String getId() {
         return id;
     }
@@ -47,6 +46,5 @@ public class Organization {
     public void setContactPhone(String contactPhone) {
         this.contactPhone = contactPhone;
     }
-
 
 }
